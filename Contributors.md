@@ -1,4 +1,4 @@
-
+- [Tran Minh Khang](https://github.com/khang220495-rgb)
 # Contributors
 -[Nguyen Quoc Tinh]
 -[Le Truong Hai]
